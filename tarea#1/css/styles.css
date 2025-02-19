@@ -1,0 +1,71 @@
+.exosfera{
+    background-color: black;
+    width: 1800px;
+    height: 900px;
+    padding: 50px;
+    margin: 0px;
+}
+.termosfera{
+    background-color: #1e3a8a;
+    width: 1700px;
+    height: 800px;
+    padding: 40px;
+    margin: 1px;
+}
+.mesosfera{
+    background-color: #4682b4;
+    width: 1600px;
+    height: 700px;
+    padding: 50px;
+    margin: 1px;
+}
+.estratosfera{
+    background-color: #87ceeb;
+    width: 1500px;
+    height: 600px;
+    padding: 50px;
+    margin: 1px;
+}
+.troposfera{
+    background-color: #b0c4de;
+    width: 1400px;
+    height: 500px;
+    padding: 50px;
+    margin: 1px;
+}
+.litosfera{
+    background-color: #a0522d;
+    width: 1300px;
+    height: 400px;
+    padding: 50px;
+    margin: 1px;
+}
+.manto{
+    background-color: #ff4500;
+    width: 1200px;
+    height: 300px;
+    padding: 50px;
+    margin: 1px;
+}
+.nucleoexterno{
+    background-color: #ffa500;
+    width: 1100px;
+    height: 200px;
+    padding: 50px;
+    margin: 1px;
+}
+.nucleointerno{
+    background-color: #b22222;
+    width: 1000px;
+    height: 100px;
+    padding: 50px;
+    margin: 1px;
+}
+h1{
+    background-color: #8b0000;
+    width: 900px;
+    height: 1px;
+    padding: 50px;
+    margin: 1px;
+    text-align: center;
+}
